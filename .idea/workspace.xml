@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39e5c5ab-7fd3-4f13-be16-c394f2444d17" name="Default Changelist" comment="" />
+    <list default="true" id="39e5c5ab-7fd3-4f13-be16-c394f2444d17" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,12 +91,25 @@
       <option name="presentableId" value="Default" />
       <updated>1657245496192</updated>
       <workItem from="1657245497430" duration="17218000" />
-      <workItem from="1658282495747" duration="30779000" />
+      <workItem from="1658282495747" duration="32129000" />
     </task>
+    <task id="LOCAL-00001" summary="json server code">
+      <created>1659504283424</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659504283424</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="json server code" />
+    <option name="LAST_COMMIT_MESSAGE" value="json server code" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pycharm$bt_py.coverage" NAME="bt_py Coverage Results" MODIFIED="1659417179072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
